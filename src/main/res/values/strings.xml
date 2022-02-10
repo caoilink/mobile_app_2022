@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DonationX</string>
+    <string name="reviewTitle">Welcome Reviewer</string>
+    <string name="reviewSubtitle">Please Answer Honeslty</string>
+    <string name="reviewButton">Review</string>
+    <string name="paypal">Visit Again</string>
+    <string name="direct">Never Visit again</string>
+    <string name="amount">Amount</string>
+    <string name="total">Total Spent</string>
+    <string name="totalSoFar">€ Total</string>
+    <string name="reportTitle">Reviewers Report</string>
+    <string name="defaultAmount">00</string>
+    <string name="defaultMethod">N/A</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="action_review">Donate</string>
+    <string name="action_report">Report</string>
+    <string name="reviewTitle1">Welcome please give an honest review</string>
+    <string name="would_you_go_again">Would you go again</string>
+    <string name="price_of_service">Price of Service</string>
+</resources>

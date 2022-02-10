@@ -1,0 +1,10 @@
+ie/wit/donationx/databinding/ActivityReportBinding.java
+ ie.wit.donationx.databinding.ActivityReportBinding
+ie/wit/donationx/BuildConfig.java
+ ie.wit.donationx.BuildConfig
+ie/wit/donationx/databinding/CardReviewerBinding.java
+ ie.wit.donationx.databinding.CardReviewerBinding
+ie/wit/donationx/DataBindingTriggerClass.java
+ ie.wit.donationx.DataBindingTriggerClass
+ie/wit/donationx/databinding/ActivityReviewerBinding.java
+ ie.wit.donationx.databinding.ActivityReviewerBinding
